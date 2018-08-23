@@ -1,0 +1,7 @@
+{
+  "name": "Questionnaire Client",
+  "description": "The FrontEnd App to solve toolbox questionnaire",
+  "repository": "https://github.com/pgonzaga/questionnaire-client",
+  "logo": "http://s3.amazonaws.com/resumator/customer_20180208142221_FSXIX0H666MNM11B/logos/20180224185018_logo_toolbox.jpg",
+  "keywords": ["node", "react", "redux"]
+}
